@@ -43,11 +43,13 @@ Diagram:
 6. open link
 7. click on the left text box
 8. type a list. Example "apple, pear, chicken"
-9. Press submit 
-# Test Case
+9. Press submit
 
 # Hugging Face
 https://huggingface.co/spaces/Pugitos/Alphabetical-Sorting-Insertion-Sort-And-Lexicographic-Comparison
+
+# Test Case
+
 
 
 Every text
