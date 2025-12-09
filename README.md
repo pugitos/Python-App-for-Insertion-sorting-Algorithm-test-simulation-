@@ -58,5 +58,5 @@ Submit Nothing
 <img width="1900" height="375" alt="Screenshot 2025-12-09 001006" src="https://github.com/user-attachments/assets/5a38ea50-e56d-4269-9ad1-ccf690ad38ee" />
 
 #  Author & Acknowledgment
-
-
+Kehe: https://leetcode.com/problems/valid-anagram/solutions/66499/python-solutions-sort-and-dictionary-by-te4wn/
+Kehe: Help understanding how the sorting would work out with lexicographic.
