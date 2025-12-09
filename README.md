@@ -24,3 +24,6 @@ Algorithm Design: UserInput are (input list and asking if they want to keep addi
 Diagram:          
 
 <img width="837" height="683" alt="Screenshot 2025-12-06 173024" src="https://github.com/user-attachments/assets/ed01ce00-53fd-4d43-ac2e-d414c05f03c6" />
+
+#Test Case
+<img width="1909" height="396" alt="Screenshot 2025-12-09 000617" src="https://github.com/user-attachments/assets/63f77274-0f3b-4e8d-893d-66b27026f914" />
