@@ -1,5 +1,5 @@
 # Python-App-for-Insertion-sorting-Algorithm-test-simulation-
-This is application to sort the user stuff by alphabet order and able to insert more items wanted in
+This is application to sort the user stuff by alphabet order 
 
 # Why Insertion sorting
 Choosing Insertion sorting adds alot of flexabilty for the user if they wanted to add more into the application 
