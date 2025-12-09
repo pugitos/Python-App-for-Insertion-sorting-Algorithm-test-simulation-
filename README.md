@@ -9,22 +9,22 @@ https://github.com/user-attachments/assets/cbf527b2-491d-46f9-9ad5-6c120a29886d
 
 
 # Why Insertion sorting
-Choosing Insertion sorting adds alot of flexabilty for the user if they wanted to add more into the application 
-without the whole process being redone. However the inital process would be slower compared than the other sorting 
-algorithms
+Choosing Insertion sorting adds a lot of flexibility for the user if they want to add more to the application 
+without the whole process being redone. However, the initial process would be slower compared to the other sorting 
+algorithms. 
 
 # Using Computational Thinking
 
-Decomposition: Knowing the goal is to create a application there is multple problem we have to get done so then our algorithm will work.
-               creating base case to stop the algorithm when all objects are sorted, create a dictonary list to give each letter 
-               in the english alphabet a value with the lexicographic, check for user errors, check for unsual errors example empty list, 
-               create a input system for the user, check for worng inputs from user, insert users input into sorting algorithm
+Decomposition: Knowing the goal is to create an application, there are multiple problem we have to get done so that our algorithm will work.
+               creating a base case to stop the algorithm when all objects are sorted, create a dictionary list to give each letter 
+               In the English alphabet, a value with the lexicographic order, check for user errors, check for unusual errors example empty list. 
+               Create an input system for the user, check for wrong inputs from the user, and insert user's input into the sorting algorithm
                
-Pattern Recognition: This system will keep comparing the value given to each first letter of an object and if the object have the 
-                     same letter then we compare the next letter. until one is greater than the other. With insertion sort this will 
-                     check all number on the left side of the list.
-
-Abstraction: The user would only need to know that this will sort alphabet order of the names given in the list. There are able to add as much as they like into the list.
+Pattern Recognition: This system will keep comparing the value given to each first letter of an object, and if the object has the 
+                     same letter, then we compare the next letter. until one is greater than the other. With insertion sort, this will 
+                     check all numbers on the left side of the list.
+                     
+Abstraction: The user would only need to know that this will sort alphabetically the names given in the list. They are able to add as much as they like to the list.
                                                                                                                                          
 Algorithm Design: UserInput are (input Making the list, Click button to start the sorting ), Output(sorted list for the user)
                     
