@@ -26,4 +26,7 @@ Diagram:
 <img width="837" height="683" alt="Screenshot 2025-12-06 173024" src="https://github.com/user-attachments/assets/ed01ce00-53fd-4d43-ac2e-d414c05f03c6" />
 
 #Test Case
+Every text
 <img width="1909" height="396" alt="Screenshot 2025-12-09 000617" src="https://github.com/user-attachments/assets/63f77274-0f3b-4e8d-893d-66b27026f914" />
+Submit Nothing
+<img width="1900" height="375" alt="Screenshot 2025-12-09 001006" src="https://github.com/user-attachments/assets/5a38ea50-e56d-4269-9ad1-ccf690ad38ee" />
