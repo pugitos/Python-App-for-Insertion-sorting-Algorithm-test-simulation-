@@ -32,7 +32,23 @@ Diagram:
 
 <img width="837" height="683" alt="Screenshot 2025-12-06 173024" src="https://github.com/user-attachments/assets/ed01ce00-53fd-4d43-ac2e-d414c05f03c6" />
 
+
+
+# How to Use
+1. Download Python 3.11 and above
+2. Download gradio
+3. Use coding application (prefer visual studio)
+4. open the file  in the coding application
+5. run
+6. open link
+7. click on the left text box
+8. type a list. Example "apple, pear, chicken"
+9. Press submit 
 # Test Case
+
+# Hugging Face
+https://huggingface.co/spaces/Pugitos/Alphabetical-Sorting-Insertion-Sort-And-Lexicographic-Comparison
+
 
 Every text
 <img width="1909" height="396" alt="Screenshot 2025-12-09 000617" src="https://github.com/user-attachments/assets/63f77274-0f3b-4e8d-893d-66b27026f914" />
