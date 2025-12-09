@@ -1,5 +1,5 @@
 # Python-App-for-Insertion-sorting-Algorithm-test-simulation-
-This is application to sort the user stuff by alphabet order 
+This is application to insertion sort the user stuff by alphabet order 
 
 # DEMO
 
@@ -17,7 +17,7 @@ algorithms
 
 Decomposition: Knowing the goal is to create a application there is multple problem we have to get done so then our algorithm will work.
                creating base case to stop the algorithm when all objects are sorted, create a dictonary list to give each letter 
-               in the english alphabet a value with the lex, check for user errors, check for unsual errors example empty list, 
+               in the english alphabet a value with the lexicographic, check for user errors, check for unsual errors example empty list, 
                create a input system for the user, check for worng inputs from user, insert users input into sorting algorithm
                
 Pattern Recognition: This system will keep comparing the value given to each first letter of an object and if the object have the 
@@ -26,7 +26,7 @@ Pattern Recognition: This system will keep comparing the value given to each fir
 
 Abstraction: The user would only need to know that this will sort alphabet order of the names given in the list. There are able to add as much as they like into the list.
                                                                                                                                          
-Algorithm Design: UserInput are (input list and asking if they want to keep adding more into the list), Output( sorted list for the user)
+Algorithm Design: UserInput are (input Making the list, Click button to start the sorting ), Output(sorted list for the user)
                     
 Diagram:          
 
