@@ -30,7 +30,8 @@ Algorithm Design: UserInput are (input Making the list, Click button to start th
                     
 Diagram:          
 
-<img width="837" height="683" alt="Screenshot 2025-12-06 173024" src="https://github.com/user-attachments/assets/ed01ce00-53fd-4d43-ac2e-d414c05f03c6" />
+
+<img width="871" height="684" alt="Screenshot 2025-12-09 010025" src="https://github.com/user-attachments/assets/ca94dd71-af78-421f-861c-fdaa3e8af380" />
 
 
 
